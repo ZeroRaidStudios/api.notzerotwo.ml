@@ -20,7 +20,7 @@ Join our discord and open a ticket and we explain how to do by yourself
 
 `[] Not Required`
 
-The api is divided by different category That are data,fun,image,security,text
+The api is divided by different category That are **data,fun,image,security,text**
 
 Data Section:
 
