@@ -15,6 +15,9 @@ Hey if you want to help the ZeroRaid you can do here we are currently make an pl
 
 # Tutorial | How to Get a Apikey
 Join our discord and open a ticket and we explain how to do by yourself
+https://discord.gg/7MEZZHD6Wh
+
+Next create a ticket and write **api** the bot will send an explain how to do it
 
 # Tutorial | How to use the Api
 
