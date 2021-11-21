@@ -93,3 +93,18 @@ Text Section:
 `GET 202 https://api.notzerotwo.ml/text/question?api=Apikey&question=Who is the actual President of the united States?`  
 `GET 202 https://api.notzerotwo.ml/text/translate?api=Apikey&msg=Ciao&from=IT&to=ENG`  
 `GET 202 https://api.notzerotwo.ml/text/zalgo?api=Apikey&text=Hi father`  
+
+---
+
+# Tutorial Example
+
+```javascript
+const fetch = require('node-fetch');
+
+const response = await fetch(`https://api.notzerotwo.ml/text/question?api=Apikey&question=${args[0]}`);
+const data = await response.json();
+
+message.channel.send(`Your Question is ${args[0]}\nResponse: ${response.response}`)
+// or
+// msg.channel.send(`Your Question is ${args[0]}\nResponse: ${response.response}`)
+```
