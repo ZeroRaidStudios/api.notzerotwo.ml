@@ -80,13 +80,13 @@ Image Section:
 `GET 202 http://127.0.0.1:7000/image/npc?api=Apikey&text1=Your Mom&text2=OH FUCK`  
 `GET 202 http://127.0.0.1:7000/image/heaven?api=Apikey&avatar=Avatar`  
 `GET 202 http://127.0.0.1:7000/image/drip?api=Apikey&avatar=Avatar`  
-`GET 202 http://127.0.0.1:7000/image/dockoftheshame?api=Apikey&avatar=Avatar` 
-`GET 202 http://127.0.0.1:7000/image/simpcard?api=Apikey&avatar=Avatar` 
-`GET 202 http://127.0.0.1:7000/image/fakecaptcha?api=Apikey&text=a` 
-`GET 202 http://127.0.0.1:7000/image/smrt?api=Apikey&avatar=Avatar` 
-`GET 202 http://127.0.0.1:7000/image/timout?api=Apikey&avatar=Avatar` 
-`GET 202 http://127.0.0.1:7000/image/shot?api=Apikey&avatar=Avatar` 
-`GET 202 http://127.0.0.1:7000/image/adios?api=Apikey&avatar=Avatar` 
+`GET 202 http://127.0.0.1:7000/image/dockoftheshame?api=Apikey&avatar=Avatar`  
+`GET 202 http://127.0.0.1:7000/image/simpcard?api=Apikey&avatar=Avatar`  
+`GET 202 http://127.0.0.1:7000/image/fakecaptcha?api=Apikey&text=a`  
+`GET 202 http://127.0.0.1:7000/image/smrt?api=Apikey&avatar=Avatar`  
+`GET 202 http://127.0.0.1:7000/image/timout?api=Apikey&avatar=Avatar`  
+`GET 202 http://127.0.0.1:7000/image/shot?api=Apikey&avatar=Avatar`  
+`GET 202 http://127.0.0.1:7000/image/adios?api=Apikey&avatar=Avatar`  
 
 ---
 
