@@ -76,17 +76,20 @@ Image Section:
 `GET 202 https://api.notzerotwo.ml/image/triggered?api=Apikey&image=https://myimage.com/`  
 `GET 202 https://api.notzerotwo.ml/image/tuxedo-pooh?api=Apikey&text1=OWO&text2=UWU`  
 `GET 202 https://api.notzerotwo.ml/image/tweet?api=Apikey&image=https://myimage.com/&username=NotZer0Two&text=I love ZeroApi`  
-`GET 202 http://127.0.0.1:7000/image/icanmilkyou?api=Apikey&avatar1=AVATAR&avatar2=AVATAR`  
-`GET 202 http://127.0.0.1:7000/image/npc?api=Apikey&text1=Your Mom&text2=OH FUCK`  
-`GET 202 http://127.0.0.1:7000/image/heaven?api=Apikey&avatar=Avatar`  
-`GET 202 http://127.0.0.1:7000/image/drip?api=Apikey&avatar=Avatar`  
-`GET 202 http://127.0.0.1:7000/image/dockoftheshame?api=Apikey&avatar=Avatar`  
-`GET 202 http://127.0.0.1:7000/image/simpcard?api=Apikey&avatar=Avatar`  
-`GET 202 http://127.0.0.1:7000/image/fakecaptcha?api=Apikey&text=a`  
-`GET 202 http://127.0.0.1:7000/image/smrt?api=Apikey&avatar=Avatar`  
-`GET 202 http://127.0.0.1:7000/image/timout?api=Apikey&avatar=Avatar`  
-`GET 202 http://127.0.0.1:7000/image/shot?api=Apikey&avatar=Avatar`  
-`GET 202 http://127.0.0.1:7000/image/adios?api=Apikey&avatar=Avatar`  
+`GET 202 http://api.notzerotwo.ml/image/icanmilkyou?api=Apikey&avatar1=AVATAR&avatar2=AVATAR`  
+`GET 202 http://api.notzerotwo.ml/image/npc?api=Apikey&text1=Your Mom&text2=OH FUCK`  
+`GET 202 http://api.notzerotwo.ml/image/heaven?api=Apikey&avatar=Avatar`  
+`GET 202 http://api.notzerotwo.ml/image/drip?api=Apikey&avatar=Avatar`  
+`GET 202 http://api.notzerotwo.ml/image/dockoftheshame?api=Apikey&avatar=Avatar`  
+`GET 202 http://api.notzerotwo.ml/image/simpcard?api=Apikey&avatar=Avatar`  
+`GET 202 http://api.notzerotwo.ml/image/fakecaptcha?api=Apikey&text=a`  
+`GET 202 http://api.notzerotwo.ml/image/smrt?api=Apikey&avatar=Avatar`  
+`GET 202 http://api.notzerotwo.ml/image/timout?api=Apikey&avatar=Avatar`  
+`GET 202 http://api.notzerotwo.ml/image/shot?api=Apikey&avatar=Avatar`  
+`GET 202 http://api.notzerotwo.ml/image/adios?api=Apikey&avatar=Avatar`  
+`GET 202 http://api.notzerotwo.ml/image/avatar?api=Apikey&name=yourmom`  
+`GET 202 http://api.notzerotwo.ml/image/httpcat?api=Apikey&protocol=404`  
+`GET 202 http://api.notzerotwo.ml/image/robot?api=Apikey&name=yourroboticmom`  
 
 ---
 
@@ -107,6 +110,7 @@ Text Section:
 `GET 202 https://api.notzerotwo.ml/text/question?api=Apikey&question=Who is the actual President of the united States?`  
 `GET 202 https://api.notzerotwo.ml/text/translate?api=Apikey&msg=Ciao&from=IT&to=ENG`  
 `GET 202 https://api.notzerotwo.ml/text/zalgo?api=Apikey&text=Hi father`  
+`GET 202 https://api.notzerotwo.ml/text/story?api=Apikey`  
 
 ---
 
