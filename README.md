@@ -90,6 +90,7 @@ Image Section:
 `GET 202 http://api.notzerotwo.ml/image/avatar?api=Apikey&name=yourmom`  
 `GET 202 http://api.notzerotwo.ml/image/httpcat?api=Apikey&protocol=404`  
 `GET 202 http://api.notzerotwo.ml/image/robot?api=Apikey&name=yourroboticmom`  
+`GET 202 http://api.notzerotwo.ml/image/welcomecard?api=Apikey&image=ProfilePicture&text1=Welcome ${name}&text2=You are the ${Number]&text3=Put What you want here idk&[background=Image]`  
 
 ---
 
