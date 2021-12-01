@@ -104,7 +104,7 @@ Security Section:
 
 Text Section:
 
-`GET 202 https://api.notzerotwo.ml/text/compile?api=Apikey&language=[c,cpp,java,py,javascript]&code=console.log("Hello World!")`  
+`GET 202 https://api.notzerotwo.ml/text/compile?api=Apikey&language=toomanygocheckit&code=console.log("Hello World!")`  
 `GET 202 https://api.notzerotwo.ml/text/decode-binary?api=Apikey&binary=Hello`  
 `GET 202 https://api.notzerotwo.ml/text/emojify?api=Apikey&text=Hello my dog`  
 `GET 202 https://api.notzerotwo.ml/text/encode-binary?api=Apikey&text=Hello`  
