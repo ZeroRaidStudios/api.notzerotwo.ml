@@ -123,7 +123,7 @@ const fetch = require('node-fetch');
 const response = await fetch(`https://api.notzerotwo.ml/text/question?api=Apikey&question=${args[0]}`);
 const data = await response.json();
 
-message.channel.send(`Your Question is ${args[0]}\nResponse: ${response.response}`)
+message.channel.send(`Your Question is ${args[0]}\nResponse: ${data.response}`)
 // or
-// msg.channel.send(`Your Question is ${args[0]}\nResponse: ${response.response}`)
+// msg.channel.send(`Your Question is ${args[0]}\nResponse: ${data.response}`)
 ```
