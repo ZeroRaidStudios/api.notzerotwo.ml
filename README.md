@@ -34,6 +34,7 @@ Data Section:
 `GET 202 https://api.notzerotwo.ml/data/hypixel?api=Apikey&player=Zer0Two`  
 `GET 202 https://api.notzerotwo.ml/data/npm?api=Apikey&package=fs-security`  
 `GET 202 https://api.notzerotwo.ml/data/weather?api=Apikey&location=Rome`  
+`GET 202 https://api.notzerotwo.ml/data/iss?api=Apikey`  
 
 ---
 
@@ -91,6 +92,10 @@ Image Section:
 `GET 202 http://api.notzerotwo.ml/image/httpcat?api=Apikey&protocol=404`  
 `GET 202 http://api.notzerotwo.ml/image/robot?api=Apikey&name=yourroboticmom`  
 `GET 202 http://api.notzerotwo.ml/image/welcomecard?api=Apikey&avatar=ProfilePicture&guildname=ZeroApi Discord&name=Username&discriminator=0000&counter=0`  
+`GET 202 http://api.notzerotwo.ml/image/listening?api=Apikey&image=https://myimage.com/`  
+`GET 202 http://api.notzerotwo.ml/image/teachercopy?api=Apikey&text=Hello1&text1=Hello2`  
+`GET 202 http://api.notzerotwo.ml/image/mickeymouse?api=Apikey&text=Mickey Mouse is gonna do something illegal`  
+`GET 202 http://api.notzerotwo.ml/image/waifugenerator?api=Apikey`  
 
 ---
 
@@ -99,6 +104,7 @@ Security Section:
 `GET 202 https://api.notzerotwo.ml/security/cve?api=Apikey&cve=CVE-2010-3333`  
 `GET 202 https://api.notzerotwo.ml/security/dangerous?api=Apikey&user=ID_Discord`  
 `GET 202 https://api.notzerotwo.ml/security/domain?api=Apikey&domain=pornhub.com`  
+`GET 202 https://api.notzerotwo.ml/security/stackoverflow?api=Apikey&error=Module 'node-fetch' not found`  
 
 ---
 
@@ -112,6 +118,8 @@ Text Section:
 `GET 202 https://api.notzerotwo.ml/text/translate?api=Apikey&msg=Ciao&from=IT&to=ENG`  
 `GET 202 https://api.notzerotwo.ml/text/zalgo?api=Apikey&text=Hi father`  
 `GET 202 https://api.notzerotwo.ml/text/story?api=Apikey`  
+`GET 202 https://api.notzerotwo.ml/text/uselessfacts?api=Apikey`  
+`GET 202 https://api.notzerotwo.ml/text/meals?api=Apikey`  
 
 ---
 
