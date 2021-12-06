@@ -35,6 +35,7 @@ Data Section:
 `GET 202 https://api.notzerotwo.ml/data/npm?api=Apikey&package=fs-security`  
 `GET 202 https://api.notzerotwo.ml/data/weather?api=Apikey&location=Rome`  
 `GET 202 https://api.notzerotwo.ml/data/iss?api=Apikey`  
+`GET 202 https://api.notzerotwo.ml/data/youtubeinfo?api=Apikey&id=Channel_ID`  
 
 ---
 
@@ -96,6 +97,8 @@ Image Section:
 `GET 202 http://api.notzerotwo.ml/image/teachercopy?api=Apikey&text=Hello1&text1=Hello2`  
 `GET 202 http://api.notzerotwo.ml/image/mickeymouse?api=Apikey&text=Mickey Mouse is gonna do something illegal`  
 `GET 202 http://api.notzerotwo.ml/image/waifugenerator?api=Apikey`  
+`GET 202 http://api.notzerotwo.ml/image/pleasestop?api=Apikey&text=HAHA look at this monke` 
+`GET 202 http://api.notzerotwo.ml/image/gifsearch?api=Apikey&search=cat` 
 
 ---
 
@@ -120,6 +123,7 @@ Text Section:
 `GET 202 https://api.notzerotwo.ml/text/story?api=Apikey`  
 `GET 202 https://api.notzerotwo.ml/text/uselessfacts?api=Apikey`  
 `GET 202 https://api.notzerotwo.ml/text/meals?api=Apikey`  
+`GET 202 https://api.notzerotwo.ml/text/morse?api=Apikey&text=ZeroApi`  
 
 ---
 
