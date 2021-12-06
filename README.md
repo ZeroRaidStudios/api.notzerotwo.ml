@@ -125,6 +125,9 @@ Text Section:
 
 # Tutorial Example
 
+## Node-Fetch
+
+### Fetch endpoint with word
 ```javascript
 const fetch = require('node-fetch');
 
@@ -134,4 +137,29 @@ const data = await response.json();
 message.channel.send(`Your Question is ${args[0]}\nResponse: ${data.response}`)
 // or
 // msg.channel.send(`Your Question is ${args[0]}\nResponse: ${data.response}`)
+```
+
+### Fetch endpoint with image
+```javascript
+const response = await fetch(`https://api.notzerotwo.ml/image/waifugenerator?api=Apikey`);
+const data = await response.buffer();
+
+const attach = new Discord.MessageAttachment(data1, 'image.png');
+message.channel.send(attach)
+// or
+// msg.channel.send(attach)
+```
+
+## Axios
+
+### Fetch endpoint with word
+```javascript
+ const axios = require('axios')
+
+ axios.get(`https://api.notzerotwo.ml/data/covid?api=Apikey`)
+    .then(function (response) {
+        //handle success
+        const attachment = new Discord.MessageAttachment(response.data, 'covid.png');
+        msg.channel.send(`The current cases of covid are ${response.data.cases}`);
+ })
 ```
