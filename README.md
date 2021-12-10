@@ -36,6 +36,11 @@ Data Section:
 `GET 202 https://api.notzerotwo.ml/data/weather?api=Apikey&location=Rome`  
 `GET 202 https://api.notzerotwo.ml/data/iss?api=Apikey`  
 `GET 202 https://api.notzerotwo.ml/data/youtubeinfo?api=Apikey&id=Channel_ID`  
+`GET 202 https://api.notzerotwo.ml/data/songinfo?api=Apikey&songid=SpotifySong_ID`  
+`GET 202 https://api.notzerotwo.ml/data/spotifyuser?api=Apikey&userid=User_ID`  
+`GET 202 https://api.notzerotwo.ml/data/fortnite?api=Apikey&nickname=fortniteNick`  
+`GET 202 https://api.notzerotwo.ml/data/animesearch?api=Apikey&image=https://myimage.com/anime`  
+
 
 ---
 
