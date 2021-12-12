@@ -103,6 +103,9 @@ Image Section:
 `GET 202 http://api.notzerotwo.ml/image/mickeymouse?api=Apikey&text=Mickey Mouse is gonna do something illegal`  
 `GET 202 http://api.notzerotwo.ml/image/waifugenerator?api=Apikey`  
 `GET 202 http://api.notzerotwo.ml/image/pleasestop?api=Apikey&text=HAHA look at this monke` 
+`GET 202 http://api.notzerotwo.ml/image/boycry?api=Apikey&text=print("Hello World!")` 
+`GET 202 http://api.notzerotwo.ml/image/crymusic?api=Apikey&text=Next our world began to fall` 
+`GET 202 http://api.notzerotwo.ml/image/pain?api=Apikey&text=When you click on a scam link and the page is full of hentai and your mother is opening the door` 
 `GET 202 http://api.notzerotwo.ml/image/gifsearch?api=Apikey&search=cat` 
 
 ---
