@@ -23,7 +23,7 @@ Next create a ticket and write **api** the bot will send an explain how to do it
 
 `[] Not Required`
 
-The api is divided by different category That are **data,fun,image,security,text**
+The api is divided by different category That are **data,fun,image,security,text,sports**
 
 Data Section:
 
@@ -106,6 +106,10 @@ Image Section:
 `GET 202 http://api.notzerotwo.ml/image/boycry?api=Apikey&text=print("Hello World!")` 
 `GET 202 http://api.notzerotwo.ml/image/crymusic?api=Apikey&text=Next our world began to fall` 
 `GET 202 http://api.notzerotwo.ml/image/pain?api=Apikey&text=When you click on a scam link and the page is full of hentai and your mother is opening the door` 
+`GET 202 http://api.notzerotwo.ml/image/holdup?api=Apikey&text=My cat ate my hamster` 
+`GET 202 http://api.notzerotwo.ml/image/iwon?api=Apikey&text=IDK` 
+`GET 202 http://api.notzerotwo.ml/image/magik?api=Apikey&image=https://image.com/&[intensity=2]` 
+`GET 202 http://api.notzerotwo.ml/image/ping?api=Apikey&image=https://image.com/` 
 `GET 202 http://api.notzerotwo.ml/image/gifsearch?api=Apikey&search=cat` 
 
 ---
@@ -132,6 +136,12 @@ Text Section:
 `GET 202 https://api.notzerotwo.ml/text/uselessfacts?api=Apikey`  
 `GET 202 https://api.notzerotwo.ml/text/meals?api=Apikey`  
 `GET 202 https://api.notzerotwo.ml/text/morse?api=Apikey&text=ZeroApi`  
+
+---
+
+Sports Section:
+
+`GET 202 https://api.notzerotwo.ml/sports/socceroredictor?api=Apikey`  
 
 ---
 
