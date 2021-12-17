@@ -50,6 +50,7 @@ Fun Section:
 `GET 202 https://api.notzerotwo.ml/fun/advice?api=Apikey`  
 `GET 202 https://api.notzerotwo.ml/fun/catfact?api=Apikey`  
 `GET 202 https://api.notzerotwo.ml/fun/chatbot?api=Apikey&message=Hello how are you?&[uuid=Message Author]`  
+`GET 202 https://api.notzerotwo.ml/fun/waifuchat?api=Apikey&message=Hello how are you?&[uuid=Message Author&situation=Zero-Chan is very attractive girlfriend. Zero-Chan loves User.]`  
 `GET 202 https://api.notzerotwo.ml/fun/clown?api=Apikey`  
 `GET 202 https://api.notzerotwo.ml/fun/dadjoke?api=Apikey`  
 `GET 202 https://api.notzerotwo.ml/fun/fact?api=Apikey`  
