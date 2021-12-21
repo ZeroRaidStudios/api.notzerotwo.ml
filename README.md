@@ -111,6 +111,7 @@ Image Section:
 `GET 202 http://api.notzerotwo.ml/image/iwon?api=Apikey&text=IDK`  
 `GET 202 http://api.notzerotwo.ml/image/magik?api=Apikey&image=https://image.com/&[intensity=2]`  
 `GET 202 http://api.notzerotwo.ml/image/ping?api=Apikey&image=https://image.com/`  
+`GET 202 http://api.notzerotwo.ml/image/soldiersociety?api=Apikey&text=Hello1&text1=Hello2`  
 `GET 202 http://api.notzerotwo.ml/image/gifsearch?api=Apikey&search=cat`  
 
 ---
