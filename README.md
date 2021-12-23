@@ -112,6 +112,8 @@ Image Section:
 `GET 202 http://api.notzerotwo.ml/image/magik?api=Apikey&image=https://image.com/&[intensity=2]`  
 `GET 202 http://api.notzerotwo.ml/image/ping?api=Apikey&image=https://image.com/`  
 `GET 202 http://api.notzerotwo.ml/image/soldiersociety?api=Apikey&text=Hello1&text1=Hello2`  
+`GET 202 http://api.notzerotwo.ml/image/gigachad?api=Apikey&image=https://image.com/&type=[normal, god]`  
+`GET 202 http://api.notzerotwo.ml/image/rankcard?api=Apikey&name=DiscordName&discriminator=00000&currentXP=0&fullXP=100&level=1&rank=User&avatar=https://image.com/`  
 `GET 202 http://api.notzerotwo.ml/image/gifsearch?api=Apikey&search=cat`  
 
 ---
