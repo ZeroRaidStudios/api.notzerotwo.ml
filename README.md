@@ -39,6 +39,7 @@ Data Section:
 `GET 202 https://api.notzerotwo.ml/data/songinfo?api=Apikey&songid=SpotifySong_ID`  
 `GET 202 https://api.notzerotwo.ml/data/spotifyuser?api=Apikey&userid=User_ID`  
 `GET 202 https://api.notzerotwo.ml/data/fortnite?api=Apikey&nickname=fortniteNick`  
+`GET 202 https://api.notzerotwo.ml/data/cryptoalert?api=Apikey`  
 `GET 202 https://api.notzerotwo.ml/data/animesearch?api=Apikey&image=https://myimage.com/anime`  
 
 
@@ -114,6 +115,9 @@ Image Section:
 `GET 202 http://api.notzerotwo.ml/image/soldiersociety?api=Apikey&text=Hello1&text1=Hello2`  
 `GET 202 http://api.notzerotwo.ml/image/gigachad?api=Apikey&image=https://image.com/&type=[normal, god]`  
 `GET 202 http://api.notzerotwo.ml/image/rankcard?api=Apikey&name=DiscordName&discriminator=00000&currentXP=0&fullXP=100&level=1&rank=User&avatar=https://image.com/`  
+`GET 202 http://api.notzerotwo.ml/image/girlandboytalk?api=Apikey&text=Hello1&text1=Hello2`  
+`GET 202 http://api.notzerotwo.ml/image/whathow?api=Apikey&image=https://image.com/`  
+`GET 202 http://api.notzerotwo.ml/image/leavecard?api=Apikey&avatar=ProfilePicture&guildname=ZeroApi Discord&name=Username&discriminator=0000&counter=0`  
 `GET 202 http://api.notzerotwo.ml/image/gifsearch?api=Apikey&search=cat`  
 
 ---
