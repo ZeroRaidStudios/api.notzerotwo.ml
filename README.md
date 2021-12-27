@@ -91,9 +91,6 @@ Image Section:
 `GET 202 http://api.notzerotwo.ml/image/drip?api=Apikey&avatar=Avatar`  
 `GET 202 http://api.notzerotwo.ml/image/dockoftheshame?api=Apikey&avatar=Avatar`  
 `GET 202 http://api.notzerotwo.ml/image/simpcard?api=Apikey&avatar=Avatar`  
-`GET 202 http://api.notzerotwo.ml/image/fakecaptcha?api=Apikey&text=a`  
-`GET 202 http://api.notzerotwo.ml/image/smrt?api=Apikey&avatar=Avatar`  
-`GET 202 http://api.notzerotwo.ml/image/timout?api=Apikey&avatar=Avatar`  
 `GET 202 http://api.notzerotwo.ml/image/shot?api=Apikey&avatar=Avatar`  
 `GET 202 http://api.notzerotwo.ml/image/adios?api=Apikey&avatar=Avatar`  
 `GET 202 http://api.notzerotwo.ml/image/avatar?api=Apikey&name=yourmom`  
