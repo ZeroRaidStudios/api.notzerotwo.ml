@@ -40,6 +40,9 @@ Data Section:
 `GET 202 https://api.notzerotwo.ml/data/spotifyuser?api=Apikey&userid=User_ID`  
 `GET 202 https://api.notzerotwo.ml/data/fortnite?api=Apikey&nickname=fortniteNick`  
 `GET 202 https://api.notzerotwo.ml/data/cryptoalert?api=Apikey`  
+`GET 202 https://api.notzerotwo.ml/data/axoltl?api=Apikey`  
+`GET 202 https://api.notzerotwo.ml/data/dictionary?api=Apikey&word=Hello&[language=en]`  
+`GET 202 https://api.notzerotwo.ml/data/lyrics?api=Apikey&title=Its been so long`  
 `GET 202 https://api.notzerotwo.ml/data/animesearch?api=Apikey&image=https://myimage.com/anime`  
 
 
@@ -57,6 +60,8 @@ Fun Section:
 `GET 202 https://api.notzerotwo.ml/fun/fact?api=Apikey`  
 `GET 202 https://api.notzerotwo.ml/fun/meme?api=Apikey`  
 `GET 202 https://api.notzerotwo.ml/fun/texttoimage?api=Apikey&imagine=your mom`  
+`GET 202 https://api.notzerotwo.ml/fun/isthatfor?api=Apikey`  
+`GET 202 https://api.notzerotwo.ml/fun/randomemoji?api=Apikey`  
 `GET 202 https://api.notzerotwo.ml/fun/wouldyourather?api=Apikey`  
 
 ---
