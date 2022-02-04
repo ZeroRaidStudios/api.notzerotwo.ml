@@ -63,6 +63,10 @@ Fun Section:
 `GET 202 https://api.notzerotwo.ml/fun/isthatfor?api=Apikey`  
 `GET 202 https://api.notzerotwo.ml/fun/randomemoji?api=Apikey`  
 `GET 202 https://api.notzerotwo.ml/fun/wouldyourather?api=Apikey`  
+`GET 202 https://api.notzerotwo.ml/fun/animequote?api=Apikey`  
+`GET 202 https://api.notzerotwo.ml/fun/excuser?api=Apikey`  
+`GET 202 https://api.notzerotwo.ml/fun/randomanime?api=Apikey`  
+`GET 202 https://api.notzerotwo.ml/fun/randomwaifu?api=Apikey`  
 
 ---
 
