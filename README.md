@@ -23,7 +23,7 @@ Next create a ticket and write **api** the bot will send an explain how to do it
 
 `[] Not Required`
 
-The api is divided by different category That are **data,fun,image,security,text,sports**
+The api is divided by different category That are **data,fun,image,security,text,sports,admin**
 
 Data Section:
 
@@ -54,7 +54,7 @@ Fun Section:
 `GET 202 https://api.notzerotwo.ml/fun/advice?api=Apikey`  
 `GET 202 https://api.notzerotwo.ml/fun/catfact?api=Apikey`  
 `GET 202 https://api.notzerotwo.ml/fun/chatbot?api=Apikey&message=Hello how are you?&[uuid=Message Author]`  
-`GET 202 https://api.notzerotwo.ml/fun/waifuchat?api=Apikey&message=Hello how are you?&[uuid=Message Author&situation=Zero-Chan is very attractive girlfriend. Zero-Chan loves User.]`  
+`GET 202 https://api.notzerotwo.ml/fun/waifuchat?api=Apikey&message=Hello how are you?&[uuid=Message Author&situation=Zero-Chan is very attractive girlfriend. Zero-Chan loves User.&botname=Zero-Chan]`  
 `GET 202 https://api.notzerotwo.ml/fun/clown?api=Apikey`  
 `GET 202 https://api.notzerotwo.ml/fun/dadjoke?api=Apikey`  
 `GET 202 https://api.notzerotwo.ml/fun/fact?api=Apikey`  
@@ -156,6 +156,14 @@ Text Section:
 Sports Section:
 
 `GET 202 https://api.notzerotwo.ml/sports/socceroredictor?api=Apikey`  
+
+---
+
+Admin Section:
+
+`GET 202 https://api.notzerotwo.ml/admin/delwaifu?api=Apikey&uuid=ID`  
+`GET 202 https://api.notzerotwo.ml/admin/dialogwaifu?api=Apikey&uuid=ID`  
+`GET 202 https://api.notzerotwo.ml/admin/test?api=Apikey`  
 
 ---
 
