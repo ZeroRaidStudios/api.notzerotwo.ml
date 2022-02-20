@@ -44,7 +44,7 @@ Data Section:
 `GET 202 https://api.notzerotwo.ml/data/dictionary?api=Apikey&word=Hello&[language=en]`  
 `GET 202 https://api.notzerotwo.ml/data/lyrics?api=Apikey&title=Its been so long`  
 `GET 202 https://api.notzerotwo.ml/data/animesearch?api=Apikey&image=https://myimage.com/anime`  
-
+`GET 202 https://api.notzerotwo.ml/data/animesearch?api=Apikey&ip=hypixel.net&name=Hypixel Server`  
 
 ---
 
