@@ -67,6 +67,7 @@ Fun Section:
 `GET 202 https://api.notzerotwo.ml/fun/excuser?api=Apikey`  
 `GET 202 https://api.notzerotwo.ml/fun/randomanime?api=Apikey`  
 `GET 202 https://api.notzerotwo.ml/fun/randomwaifu?api=Apikey`  
+`GET 202 https://api.notzerotwo.ml/fun/horrorstory?api=Apikey&topic=Girl&short_description=leaved by the boyfriend`  
 
 ---
 
